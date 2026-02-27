@@ -32,3 +32,17 @@ aerogate-backend/.env
 # Python
 *.pyc
 __pycache__/
+
+# Python virtual environment
+venv/
+aerogate-backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Node
+node_modules/
