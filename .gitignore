@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backend
+aerogate-backend/venv/
+aerogate-backend/__pycache__/
+aerogate-backend/*.db
+aerogate-backend/.env
+
+# Python
+*.pyc
+__pycache__/
