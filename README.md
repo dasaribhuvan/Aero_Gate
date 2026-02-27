@@ -1,4 +1,4 @@
-# ✈️ Neon Gate Vision
+# ✈️ Aero_Gate
 
 Neon Gate Vision is an AI-powered biometric access control system that uses facial recognition to grant or deny access based on identity verification and membership validity.
 
